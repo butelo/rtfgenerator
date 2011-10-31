@@ -34,7 +34,12 @@ public class RtfgeneratorActivity extends Activity {
 		
 		cargarTemplate();
 		
+		
+		
+		
 		generarString();
+		
+		
 		
 
 		try {
@@ -46,6 +51,8 @@ public class RtfgeneratorActivity extends Activity {
 		
 
 	}
+	
+	
 
 
 	private void escribirString() throws IOException {
